@@ -1,8 +1,8 @@
 # Yuedu
 
 <div>
-  <img width="192" height="192" align="left" src="https://github.com/gedoor/legado/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="legado"/>
-  <h1>Legado</h1>
+  <img width="192" height="192" align="left" src="./image/ic_launcher.png" alt="Yuedu"/>
+  <h1>Yuedu</h1>
   <br>
   <p>阅读iOS版, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p>
 </div>
