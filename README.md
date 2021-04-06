@@ -18,9 +18,11 @@
 ## 免责声明
 https://gedoor.github.io/MyBookshelf/disclaimer.html
 
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B1.jpg)
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B2.jpg)
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B3.jpg)
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B4.jpg)
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B5.jpg)
-![image](https://github.com/gedoor/gedoor.github.io/blob/master/images/%E9%98%85%E8%AF%BB%E7%AE%80%E4%BB%8B6.jpg)
+![image](./images/IMG_6613.PNG)
+![image](./images/IMG_6612.PNG)
+![image](./images/IMG_6611.PNG)
+![image](./images/IMG_6610.PNG)
+![image](./images/IMG_6614.PNG)
+![image](./images/IMG_6615.PNG)
+
+
