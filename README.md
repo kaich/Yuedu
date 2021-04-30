@@ -28,7 +28,7 @@
 
 ### iOS版本
 
-暂未上架（近期出测试版）
+暂未上架（初版正在提交审核中...）
 
 ### 安卓版本
 
@@ -47,5 +47,4 @@
 ![image](./images/IMG_0194.PNG)
 ![image](./images/IMG_0207.PNG)
 ![image](./images/IMG_0195.PNG)
-
 
