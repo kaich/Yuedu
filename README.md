@@ -28,7 +28,7 @@
 
 ### iOS版本
 
-暂未上架（初版正在提交审核中...）
+测试版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704) 
 
 ### 安卓版本
 
