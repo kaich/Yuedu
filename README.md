@@ -30,6 +30,8 @@
 
 测试版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704) 
 
+> 如果有条件，反馈问题前尽量先对照安卓版，避免是源的问题。 目前兼容适配，快速更新中...
+
 ### 安卓版本
 
 <a href="https://play.google.com/store/apps/details?id=io.legado.play.release"><img width="200px" alt="Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a> or <a href="https://www.coolapk.com/apk/io.legado.app.release"><img width="100px" height="100px" alt="CoolApk" src="https://github.com/Celeter/build/raw/master/.github/scripts/coolapk.png"/></a> or [Releases](https://github.com/gedoor/legado/releases/latest)
