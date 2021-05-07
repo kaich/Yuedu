@@ -28,7 +28,7 @@
 
 ### iOS版本
 
-测试版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704) 
+测试版V1.1： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704) 
 
 > 如果有条件，反馈问题前尽量先对照安卓版，避免是源的问题。 目前兼容适配，快速更新中...
 
