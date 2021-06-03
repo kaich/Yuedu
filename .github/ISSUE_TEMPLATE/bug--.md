@@ -23,11 +23,6 @@ A clear and concise description of what you expected to happen.
 **截图**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
 **测试环境**
  - 设备型号: [e.g. iPhone6]
  - 系统: [e.g. iOS8.1]
@@ -37,4 +32,4 @@ If applicable, add screenshots to help explain your problem.
 **附加信息**
 Add any other context about the problem here.
 
-> 请详细描述问题的内容，否则不会对此问题进行任何回复
+> 请按照模板详细描述问题的内容，否则问题难以理解和重现，不会对此问题进行任何回复
