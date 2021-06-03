@@ -2,26 +2,25 @@
 name: BUG反馈
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
 **问题描述**
-A clear and concise description of what the bug is.
+对错误的清晰而简明的描述。
 
 **重现步骤**
-Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
 **期望结果**
-A clear and concise description of what you expected to happen.
+对你期望发生的事情的清晰而简明的描述。
 
 **截图**
-If applicable, add screenshots to help explain your problem.
+如果可以的话，添加屏幕截图来帮助解释您的问题。
 
 **测试环境**
  - 设备型号: [e.g. iPhone6]
@@ -30,6 +29,6 @@ If applicable, add screenshots to help explain your problem.
  - 版本: [e.g. 22]
 
 **附加信息**
-Add any other context about the problem here.
+在这里添加关于这个问题的其他内容。
 
 > 请按照模板详细描述问题的内容，否则问题难以理解和重现，不会对此问题进行任何回复
