@@ -30,7 +30,7 @@
 
 Appstore测试版V1.1： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704), 暂时由于恶意差评已下架
 
-TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y)
+TF测试版<img width="100px" height="100px" alt="TestFlight" src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png"/>： [TestFlight版本](https://testflight.apple.com/join/2Svrtr9y) 
 
 > 如果有条件，反馈问题前尽量先对照安卓版，避免是源的问题。 目前兼容适配，快速更新中...
 
