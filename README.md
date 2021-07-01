@@ -34,6 +34,8 @@ TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y)
 
 > 如果有条件，反馈问题前尽量先对照安卓版，避免是源的问题。 目前兼容适配，快速更新中...
 
+> 经过将近20个TF版的测试和更新，目前源阅读兼容性和稳定性都比较良好，功能也非常完善了。准备重新上架App Store中...
+
 ### 安卓版本
 
 <a href="https://play.google.com/store/apps/details?id=io.legado.play.release"><img width="200px" alt="Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a> or <a href="https://www.coolapk.com/apk/io.legado.app.release"><img width="100px" height="100px" alt="CoolApk" src="https://github.com/Celeter/build/raw/master/.github/scripts/coolapk.png"/></a> or [Releases](https://github.com/gedoor/legado/releases/latest)
