@@ -38,7 +38,7 @@ TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y)
 
 ### 安卓版本
 
-<a href="https://play.google.com/store/apps/details?id=io.legado.play.release"><img width="200px" alt="Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a> or <a href="https://www.coolapk.com/apk/io.legado.app.release"><img width="100px" height="100px" alt="CoolApk" src="https://github.com/Celeter/build/raw/master/.github/scripts/coolapk.png"/></a> or [Releases](https://github.com/gedoor/legado/releases/latest)
+<a href="https://play.google.com/store/apps/details?id=io.legado.play.release"><img width="200px" alt="Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a> or <a href="https://www.coolapk.com/apk/io.legado.app.release"><img width="100px" height="100px" alt="CoolApk" src="https://static.coolapk.com/static/web/v8/images/header-logo.png"/></a> or [Releases](https://github.com/gedoor/legado/releases/latest)
 
 
 ## 免责声明
