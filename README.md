@@ -30,13 +30,13 @@
 
 ### iOS版本
 
-Appstore测试版V1.1： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704), 暂时由于恶意差评已下架
+Appstore正式版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704)
 
 TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y)
 
 > 如果有条件，反馈问题前尽量先对照安卓版，避免是源的问题。 目前兼容适配，快速更新中...
 
-> 经过将近20个TF版的测试和更新，目前源阅读兼容性和稳定性都非常良好，功能也非常完善了。准备重新上架App Store中...
+> 经过将近20个TF版的测试和更新，目前源阅读兼容性和稳定性都非常良好，功能也非常完善了, 已上架Appstore。 如果觉得好用请给予五星好评！之后TF版只在重大更新时候才会更新，否则直接更新Appstore版本。
 
 ### 安卓版本
 
